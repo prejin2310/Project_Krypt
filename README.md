@@ -4,5 +4,5 @@
 Krypt is a `Web3.0 blockchain application` that enables users to send transactions over the blockchain, with each transaction being permanently recorded on the blockchain.
 
 ### Screenshot
-  (https://i.ibb.co/DVF4tNW/image.png)
+<img src = "https://i.ibb.co/DVF4tNW/image.png"/>
   
