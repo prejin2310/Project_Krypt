@@ -36,4 +36,4 @@ To get a local copy up and running follow these simple example steps.
 - [Vercel](https://vercel.com/)
 
 ### Reference
-* [Click Here]([https://vitejs.dev/](https://youtu.be/Wn_Kb3MR_cU))
+* [Click Here](https://youtu.be/Wn_Kb3MR_cU))
