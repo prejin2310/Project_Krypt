@@ -27,3 +27,13 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm run dev
    ```
+
+### Built With
+- [Vite.js (react)](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Solidity](https://soliditylang.org/)
+- [Giphy API](https://developers.giphy.com/)
+- [Vercel](https://vercel.com/)
+
+### Reference
+* [Click Here]([https://vitejs.dev/](https://youtu.be/Wn_Kb3MR_cU))
